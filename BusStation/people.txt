@@ -1,0 +1,9 @@
+Customer,omarkhaled,12345,Omar khaled,19,omarkhaled@gmail.com,123456789123,TR125-TR127-
+Customer,zyadahmed,2348,zyad ahmed,22,zizoahmed@yahoo.com,986574201479,TR126-
+Customer,karimelmenyawi,45678,karim elmeniawy,25,karim_wassim@gmail.com,154877899465,TR135-TR128-
+Customer,mostafaelawwa,12584,moastafa elawaa,20,mostafa_ahmed@yahoo.com,145875963215,TR124-TR130-TR129-
+Manager,karimMeyawy,98765,karim menyawy,23
+Manager,ahmedmomo,5867,ahmed mohamed,44
+Manager,omarqobtan,4568,omar Qobtan,50
+Driver,omarehab98,18698,Omar Ehab,40,TR128-sdadfs-vcx-
+Driver,mohaed,45214,mohaaed ahmed,35,TR126-TR125-

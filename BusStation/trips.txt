@@ -1,0 +1,11 @@
+TR125,cairo,hurgada,12/5/2018,Bus,07:00,0,1,50,0,150
+TR126,cairo,luxor,12/5/2018,Bus,08:00,0,0,50,0,150
+TR127,cairo,hurgada,12/5/2018,Limosine,09:00,0,1,0,1,150
+TR128,cairo,hurgada,12/5/2018,Bus,12:00,0,2,21,28,150
+TR129,cairo,hurgada,12/5/2018,Bus,15:00,0,0,15,35,150
+TR130,cairo,hurgada,12/5/2018,Mini Bus,17:00,0,2,2,13,100
+TR131,cairo,hurgada,12/5/2018,Bus,23:00,0,2,10,40,150
+TR132,hurgada,cairo,16/5/2018,Bus,13:00,0,1,0,50,150
+TR133,luxor,cairo,15/5/2018,Bus,15:00,0,0,5,45,200
+TR134,cairo,sudan,19/5/2018,Limosine,07:00,1,2,0,1,300
+TR135,sudan,cairo,25/5/2018,Bus,06:00,1,1,15,35,300
